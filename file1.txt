@@ -1,2 +1,4 @@
-yikes
+Apaguei a esta linha e escrevi isto!!
 
+
+Fiz duas alterações dentro do ficheiro.
